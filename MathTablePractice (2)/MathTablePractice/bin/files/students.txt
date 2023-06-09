@@ -1,0 +1,2 @@
+1,Ruslan,Karimov,11,11,
+2,Eltac,Haqverdiyev,33,33,
